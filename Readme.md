@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Дмитрий Бобрышев](https://up.htmlacademy.ru/htmlcss/17/user/400565).
-* Наставник: [Михаил Поданев](https://up.htmlacademy.ru/htmlcss/17/user/400565).
+* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev).
 
 ---
 
