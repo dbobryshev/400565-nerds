@@ -1,0 +1,24 @@
+body {
+	
+	font-size: 20;
+	line-height: 15px;
+	color: black;
+	font-weight: 2px;
+	font-family: "Times New Roman"; 
+}
+
+.h1_header {
+	font-size: 40;
+	line-height: 25px;
+	color: black;
+	font-weight: 4px;
+	font-family: "Times New Roman"; 
+}
+
+h2_header {
+	font-size: 25;
+	line-height: 20px;
+	color: black;
+	font-weight: 2px;
+	font-family: "Times New Roman"; 	
+}
